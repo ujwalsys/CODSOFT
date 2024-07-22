@@ -1,1 +1,3 @@
 # CODSOFT
+Here i share my latest ideas on java projects that i made my working hard day and night ...
+HOPE U LIKE IT !!
